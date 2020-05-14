@@ -1,0 +1,12 @@
+.list-table {
+  width: 850px;
+  margin: 0 auto;
+  margin-top: 5%;
+  border: 2px solid turquoise;
+  border-radius: 10px;
+  padding: 10px;
+}
+.list-page {
+  text-align: right;
+  margin-top: 15px!important;
+}
